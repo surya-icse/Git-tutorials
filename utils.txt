@@ -2,3 +2,4 @@ utility funtions for version 1
 utility funtions for version 2
 utility funtions for version 3
 utility funtions for version 4 (using github directly)
+utility funtions for version 6
